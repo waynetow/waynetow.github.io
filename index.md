@@ -72,6 +72,9 @@ Managed product strategy and marketing campaigns for video conferencing and docu
 _February 2009 - January 2010_
 
 Took time off to take care of some personal health issues, which turned into a stint teaching yoga and personal fitness.
+- Lululemon ambassador
+- Prana influencer
+- Vuori influencer
 
 ---
 
