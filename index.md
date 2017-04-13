@@ -5,7 +5,9 @@ Welcome to my online portfolio on github! I use this space to showcase projects 
 I've had the opportunity to work at several startups, learning as much as possible while creating a positive impact on the product experience. My product philosophy: Start small and have lots of grit. Create simple experiences that delight your customers and deliver value. Expect that you'll fail a lot in the process, but never stop learning and make each version better than the last.
 
 Product Manager @ Athos
+
 _February 2016 - Present_
+
 I keep our trains running and make sure our product development aligns with our business strategy. I launched the Coaches Center, the world's only tool for creating programming and analyzing training load down to the muscular level. Athos provides coaches and athletes insights they've never had before, optimizing the way athletes train and improve.
 - Launched several iterations of the iOS app.
 - Prioritized and executed on software roadmap.
