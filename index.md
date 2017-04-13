@@ -7,7 +7,7 @@ I've had the opportunity to work at several startups, learning as much as possib
 
 ---
 
-**Product Manager @ Athos**
+**Product Manager @ [Athos](http://www.liveathos.com)**
 
 _February 2016 - Present_
 
@@ -27,7 +27,7 @@ Launched the Unravel social discovery apps for both iOS and Android, taking the 
 
 ---
 
-**Product Manager @ Raptr**
+**Product Manager @ [Raptr](http://raptr.com)**
 
 _December 2012 - June 2014_
 
@@ -46,7 +46,7 @@ Owned product roadmap and feature set for Bizzingo business social platform. Lef
 
 ---
 
-**Product Manager @ Power-One (Acquired by ABB)**
+**Product Manager @ [Power-One](http://www.abb.com) (Acquired by ABB)**
 
 _October 2011 - August 2012_
 
@@ -57,7 +57,7 @@ Managed the company’s $20M digital motor controller portfolio, responsible for
 
 ---
 
-**Product Manager @ Avermedia**
+**Product Manager @ [Avermedia](http://www.averusa.com)**
 
 _February 2010 - September 2011_
 
@@ -75,7 +75,7 @@ Took time off to take care of some personal health issues, which turned into a s
 
 ---
 
-**Product Marketing Engineer @ Alpha and Omega Semiconductor**
+**Product Marketing Engineer @ [Alpha and Omega Semiconductor](http://www.aosmd.com/)**
 
 _November 2007 - January 2009_
 
@@ -85,11 +85,16 @@ Created and applied the company’s internal cross-reference product guide sales
 
 ---
 
-**Product Marketing Engineer @ Monolithic Power Systems**
+**Product Marketing Engineer @ [Monolithic Power Systems](https://www.monolithicpower.com/)**
 
 _September 2004 - October 2007_
 
 I handled several aspects of product marketing including pricing, development of sales tools, and white papers. The company went public during my tenure.
+
+
+### Education
+
+
 
 ```markdown
 Syntax highlighted code block
