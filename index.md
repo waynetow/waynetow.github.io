@@ -3,7 +3,7 @@ Welcome to my online portfolio on github! I use this space to showcase projects 
 ### Experience
 
 I've had the opportunity to work at several startups, learning as much as possible while creating a positive impact on the product experience. My product philosophy: Start small and have lots of grit. Create simple experiences that delight your customers and deliver value. Expect that you'll fail a lot in the process, but never stop learning and make each version better than the last.
-
+---
 Product Manager @ Athos
 
 _February 2016 - Present_
