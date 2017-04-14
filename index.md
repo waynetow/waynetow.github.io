@@ -1,4 +1,4 @@
-Welcome to my online portfolio on github. I use this space to showcase projects I've worked on, along with my work history and education. Think of it as an interactive resume that lives on github.
+Welcome to my online portfolio on github. I use this space to showcase projects I've worked on, along with my work history and education. Think of it as an interactive resume that lives on github. I can also be found on [LinkedIn](https://www.linkedin.com/in/waynetow/).
 
 ### Experience
 
@@ -100,28 +100,16 @@ _September 2004 - October 2007_
 
 I handled several aspects of product marketing including pricing, development of sales tools, and white papers. The company went public during my tenure.
 
+---
 
 ### Education
 
+**Masters in Business Administration (MBA)**
+Santa Clara University, Leavey School of Business 	
+- Beta Gamma Sigma honor society member
+- Graduated top of class
 
+**Bachelor of Science in Electrical Engineering**
+University of California, Los Angeles	
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
