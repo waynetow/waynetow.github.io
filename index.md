@@ -1,4 +1,4 @@
-Welcome to my online portfolio on github! I use this space to showcase projects I've worked along with my work history and education. 
+Welcome to my online portfolio on github. I use this space to showcase projects I've worked on, along with my work history and education. Think of it as an interactive resume that lives on github.
 
 ### Experience
 
@@ -27,6 +27,8 @@ Launched the Unravel social discovery apps for both iOS and Android, taking the 
 - Achieved user retention of 63% D1R and 25% D7R by refining the product and feature set through deep data analysis and extensive A/B testing.
 - Reached average user engagement of 15 minutes per day, up from 3 minutes per day during alpha.
 
+![Unravel App](unravel_app.png)
+
 ---
 
 **Product Manager @ [Raptr](http://raptr.com)**
@@ -37,6 +39,8 @@ I focused on creating and delivering features for both the Raptr social website 
 - Increased daily average revenue from Free-to-Play channel by 500% through UX/UI redesign and contextually advertising these games to our users.
 - Leveraged crowd-sourced targeting to develop ad campaigns with an average click through rate (CTR) of 4.97%, demolishing industry standard of 0.13%.
 - Set company record for daily jump in pageviews (70%) and re-engagement of old users (>6 months inactivity) through creation of personalized annual gaming summary for all users.
+
+![Raptr](raptr.png)
 
 ---
 
