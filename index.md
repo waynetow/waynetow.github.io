@@ -15,7 +15,7 @@ I keep our trains running and make sure our product development aligns with our 
 - Launched several iterations of the iOS app.
 - Prioritized and executed on software roadmap.
 
-![Athos Website](waynetow.github.io/athos_website.png)
+![Athos Website](athos_website.png)
 
 ---
 
